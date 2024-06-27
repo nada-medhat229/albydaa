@@ -6,11 +6,11 @@
     >
       <div class="fixed inset-0 bg-black opacity-50" @click="closeModal"></div>
       <div
-        class="relative flex flex-col items-center justify-center h-screen bg-[url('/public/bggroup.png')] bg-cover w-full"
+        class="relative flex flex-col items-center justify-center h-screen bg-[url('bggroup.png')] bg-cover w-full"
       >
         <div class="text-center z-50">
           <img
-            src="/public/hourglass.png"
+            src="hourglass.png"
             alt="Hourglass"
             class="mx-auto mb-6 w-24 h-24"
           />

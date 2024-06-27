@@ -40,7 +40,7 @@
 
       </p>
       <div class="md:w-2/12 w-full flex flex-col justify-center items-center ml-4">
-      <img src="/public/marker.png" alt="Icon" class="w-8 h-8 mb-2" />
+      <img src="marker.png" alt="Icon" class="w-8 h-8 mb-2" />
       <nuxt-link to="/service/result" class="bg-[#BEAE73] text-center text-white py-1 px-3 rounded-xl w-full text-xl">
         الاجابة
     </nuxt-link>

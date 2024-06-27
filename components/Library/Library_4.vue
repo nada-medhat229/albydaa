@@ -22,10 +22,10 @@
       <section class="container">
         <div class="text-end ml-8 mb-[-18px]">
           <button class="bg-[#BEAE73] text-white p-1 rounded mx-1">
-            <img src="/public/download.png" alt="Download" class="w-6 h-6" />
+            <img src="download.png" alt="Download" class="w-6 h-6" />
           </button>
           <button class="bg-[#9FCA94] text-white p-1 rounded mx-1">
-            <img src="/public/shoppingcarts.png" alt="Share" class="w-6 h-6" />
+            <img src="shoppingcarts.png" alt="Share" class="w-6 h-6" />
           </button>
         </div>
         <div class="bg-[#c4c4c429] rounded-xl sm:px-4 px-10 py-16">

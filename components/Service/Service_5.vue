@@ -6,7 +6,7 @@
     <span>
         333
     </span>
-    <img src="/public/eye.png" class="w-5 h-5 mx-1" alt="">
+    <img src="eye.png" class="w-5 h-5 mx-1" alt="">
 </div>
         </div>
        <div class="lg:text-[26px] text-lg md:py-14 py-6 text-[#8B8B8B] px-2">
@@ -35,7 +35,7 @@
     </div> -->
     <div class="flex items-center bg-[#10526B] text-white p-6 rounded-lg w-full md:mr-10 md:flex-row flex-col">
         <div class="bg-[#E0E9F3] rounded-lg w-24 h-16 md:mr-[-60px] md:mb-0 mb-5">
-        <img src="/public/marker.png" alt="Icon" class="w-full p-3 h-full object-contain" />
+        <img src="marker.png" alt="Icon" class="w-full p-3 h-full object-contain" />
       </div>
       <div class="md:pr-10">
         <p class="sm:text-xl text-lg font-bold mb-1 md:leading-10">

@@ -7,7 +7,7 @@
       <div
         class="bg-[#10526B] rounded-lg sm:w-24 w-20 sm:h-20 h-16 relative mb-2 mt-[-65px] flex items-center justify-center"
       >
-        <img src="/public/markerwh.png" alt="Icon" class="w-9 h-9" />
+        <img src="markerwh.png" alt="Icon" class="w-9 h-9" />
       </div>
       <div class="flex-grow sm:pr-5">
         <h2 class="text-2xl text-[#10526B] font-bold md:mb-3">

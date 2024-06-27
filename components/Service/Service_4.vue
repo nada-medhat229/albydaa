@@ -6,10 +6,10 @@
        <div class="bg-[#c7e0dcc7]  rounded-xl p-4 mx-1">
       <div class="flex justify-end items-center mr-4 mt-[-30px]">
         <button class="bg-[#BEAE73] text-white p-2 rounded mx-1">
-          <img src="/public/tele.png" alt="Upload" class="w-5 h-5" />
+          <img src="tele.png" alt="Upload" class="w-5 h-5" />
         </button>
         <button class="bg-[#BEAE73] text-white p-2 rounded mx-1">
-          <img src="/public/upload.png" alt="Send" class="w-5 h-5" />
+          <img src="upload.png" alt="Send" class="w-5 h-5" />
         </button>
       </div>
       <div class="flex-grow md:px-14 px-3 rounded-lg">
