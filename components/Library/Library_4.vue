@@ -49,7 +49,7 @@
           class="text-white sm:rotate-[-90deg] bg-[#BEAE73] sm:px-20 px-4 sm:py-1 py-4 sm:rounded-t-xl sm:rounded-b-[0] rounded-lg relative sm:right-[-98px] flex items-center sm:mx-0 mx-2"
         >
           <p class="sm:inline hidden">السابق</p>
-          <img src="/vector.png" class="w-5 sm:rotate-[0] rotate-[-90deg]" />
+          <img src="../../public/vector.png" class="w-5 sm:rotate-[0] rotate-[-90deg]" />
         </button>
         <button
           @click="nextPage"
