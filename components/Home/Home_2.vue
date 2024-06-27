@@ -11,7 +11,7 @@
                 <br>
 هيفــاء بنت نــاصر الرشيد
             </p>
-            <img src="dot.png" class="w-6 h-6 my-2" alt="">
+            <img src="../../public/dot.png" class="w-6 h-6 my-2" alt="">
         </div>
         
         <div class="md:w-8/12 md:mx-0 mx-2">
