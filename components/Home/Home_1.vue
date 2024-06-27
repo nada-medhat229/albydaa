@@ -8,10 +8,10 @@
     <section class="relative">
       <div class="absolute flex justify-between w-full top-[45%]">
         <button @click="prev" class="nav-button left">
-          <img src="/rightarrow.png" class="lg:w-16 lg:h-16 md:w-12 md:h-12 w-9 h-9" alt="">
+          <img src="../../public/rightarrow.png" class="lg:w-16 lg:h-16 md:w-12 md:h-12 w-9 h-9" alt="">
         </button>
         <button @click="next" class="nav-button right">
-          <img src="/leftarrow.png" class="lg:w-16 lg:h-16 md:w-12 md:h-12 w-9 h-9" alt="">
+          <img src="../../public/leftarrow.png" class="lg:w-16 lg:h-16 md:w-12 md:h-12 w-9 h-9" alt="">
 
         </button>
       </div>

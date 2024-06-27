@@ -41,7 +41,7 @@
     </div>
 
     <button class="mt-6 bg-[#BEAE73] text-white py-2 pr-5 pl-10 rounded-xl flex items-center">
-        <img src="/vector.png" class="w-5 h-5 rotate-[-90deg]" alt="">
+        <img src="../../public/vector.png" class="w-5 h-5 rotate-[-90deg]" alt="">
         <p class="pr-5 text-xl mb-1">
             رجوع
         </p>

@@ -187,49 +187,49 @@
         <div class="container flex justify-center md:py-10 py-6">
           <a href="#">
             <img
-              src="/telegram.png"
+              src="../../public/telegram.png"
               class="sm:w-7 sm:h-8 w-6 h-7 sm:mx-4 mx-1 object-contain"
             />
           </a>
           <a href="#">
             <img
-              src="/youtube.png"
+              src="../../public/youtube.png"
               class="sm:w-7 sm:h-8 w-6 h-7 sm:mx-4 mx-1 object-contain"
             />
           </a>
           <a href="#">
             <img
-              src="/face.png"
+              src="../../public/face.png"
               class="sm:w-7 sm:h-8 w-6 h-7 sm:mx-4 mx-1 object-contain"
             />
           </a>
           <a href="#">
             <img
-              src="/instagram.png"
+              src="../../public/instagram.png"
               class="sm:w-7 sm:h-8 w-6 h-7 sm:mx-4 mx-1 object-contain"
             />
           </a>
           <a href="#">
             <img
-              src="/cast.png"
+              src="../../public/cast.png"
               class="sm:w-7 sm:h-8 w-6 h-7 sm:mx-4 mx-1 object-contain"
             />
           </a>
           <a href="#">
             <img
-              src="/audio.png"
+              src="../../public/audio.png"
               class="sm:w-7 sm:h-8 w-6 h-7 sm:mx-4 mx-1 object-contain"
             />
           </a>
           <a href="#">
             <img
-              src="/twitter.png"
+              src="../../public/twitter.png"
               class="sm:w-6 sm:h-7 w-5 h-6 sm:mx-4 mx-1 object-contain"
             />
           </a>
           <a href="#">
             <img
-              src="/snap.png"
+              src="../../public/snap.png"
               class="sm:w-7 sm:h-8 w-6 h-7 sm:mx-4 mx-1 object-contain"
             />
           </a>

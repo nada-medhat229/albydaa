@@ -99,7 +99,7 @@
             class="bg-[#BEAE73] text-white p-2 rounded shadow-md hover:bg-[#a89c63] focus:outline-none focus:ring-2 focus:ring-[#BEAE73]"
           >
             <img
-              src="telegram.png"
+              src="../../public/telegram.png"
               alt="Submit Icon"
               class="inline w-5 h-5 brightness-200"
             />

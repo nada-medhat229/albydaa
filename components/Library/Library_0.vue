@@ -44,7 +44,7 @@
           </div>
           <div class="w-full flex items-center justify-center my-4">
             <button @click="prev">
-              <img src="/right.png" class="w-4" />
+              <img src="../../public/right.png" class="w-4" />
             </button>
             <div class="flex items-center justify-center mx-4">
               <div
@@ -59,7 +59,7 @@
               @click="next"
               class="text-gray-500 hover:text-gray-700 focus:outline-none"
             >
-              <img src="/right.png" class="w-4 rotate-180" />
+              <img src="../../public/right.png" class="w-4 rotate-180" />
             </button>
           </div>
         </div>

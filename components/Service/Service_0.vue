@@ -26,7 +26,7 @@
   </div>
   <div class="flex justify-center">
       <button @click="addMoreItems">
-        <img src="addsquare.png" class="w-[3.5rem]" />
+        <img src="../../public/addsquare.png" class="w-[3.5rem]" />
       </button>
     </div>
   </section>

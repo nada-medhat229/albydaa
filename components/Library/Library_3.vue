@@ -12,7 +12,7 @@
               <div
                 class="absolute md:bottom-5 md:top-[auto] top-[-20px] md:right-[-20px] bg-[#9FCA94] rounded p-2"
               >
-                <img src="/shoppingcarts.png" alt="Icon" class="w-8 h-8" />
+                <img src="../../public/shoppingcarts.png" alt="Icon" class="w-8 h-8" />
               </div>
             </div>
             <div class="bg-[#10526B] mt-5 text-2xl text-white text-center py-2 rounded-md">
@@ -23,7 +23,7 @@
       </div>
       <div class="flex justify-center">
         <button @click="addMoreItems">
-         <img src="addsquare.png" class="w-[4.5rem]">
+         <img src="../../public/addsquare.png" class="w-[4.5rem]">
         </button>
       </div>
     </section>

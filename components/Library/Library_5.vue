@@ -44,7 +44,7 @@
                 <p>
                     اقرا المزيد
                 </p>
-                <img src="/vector.png" class="xl:w-10 w-3 xl:px-3 px-0 mt-1" alt="">
+                <img src="../../public/vector.png" class="xl:w-10 w-3 xl:px-3 px-0 mt-1" alt="">
                 </button>
               </td>
               <td class="lg:p-7 p-5 font-semibold">
@@ -68,7 +68,7 @@
     </div>
     <div class="flex justify-center mt-8">
       <button @click="addMoreItems">
-        <img src="addsquare.png" class="w-[3.5rem]" />
+        <img src="../../public/addsquare.png" class="w-[3.5rem]" />
       </button>
     </div>
   </section>

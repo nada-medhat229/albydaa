@@ -1,6 +1,6 @@
 <template>
   <section
-    class="container bg-[url('/slide.png')] bg-center rounded-2xl slidetext"
+    class="container bg-[url('../../public/slide.png')] bg-center rounded-2xl slidetext"
   >
     <Swiper
       :slidesPerView="1"

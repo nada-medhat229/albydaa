@@ -9,7 +9,7 @@
         <div class="bg-[#BEAE73] shadow-[0px_4px_4px_0px_rgba(0,_0,_0,_0.25)] w-16 rounded-md md:ml-4 ml-2"></div>
 
         <div  class="bg-[#c4c4c429] shadow-[0px_4px_4px_0px_rgba(0,_0,_0,_0.25)] rounded-xl pt-24 md:pb-14 pb-8 pr-7 md:pl-12 pl-7">
-            <img src="/quote.png" alt="" class="mt-[-7.5rem] mr-auto ml-[2rem] w-14">
+            <img src="../../public/quote.png" alt="" class="mt-[-7.5rem] mr-auto ml-[2rem] w-14">
             <p class=" md:text-3xl text-xl  font-semibold md:py-16 py-5 md:leading-[2.5rem] text-[#616161bf]">
             {{ about.text }}  
             </p>

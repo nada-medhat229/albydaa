@@ -5,7 +5,7 @@
         <div
           class="bg-[#10526B] rounded-lg w-24 h-20 mr-auto ml-[40px] mb-[-40px] relative mb-5 flex items-center justify-center"
         >
-          <img src="markerwh.png" alt="Icon" class="w-8 h-8" />
+          <img src="../../public/markerwh.png" alt="Icon" class="w-8 h-8" />
         </div>
         <div
           class="bg-[#C4C4C429] rounded-xl font-bold xl:px-18 px-10 py-12 text-center flex flex-col items-center"
@@ -24,7 +24,7 @@
     </div>
     <div class="flex justify-center">
       <button @click="addMoreItems">
-        <img src="addsquare.png" class="w-[3.5rem]" />
+        <img src="../../public/addsquare.png" class="w-[3.5rem]" />
       </button>
     </div>
   </section>

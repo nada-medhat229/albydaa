@@ -12,7 +12,7 @@
         <p class="">
             333
         </p>
-        <img src="eye.png" alt="Icon" class="w-8 h-8 mr-2" />
+        <img src="../../public/eye.png" alt="Icon" class="w-8 h-8 mr-2" />
 
       </div>
     </div>
@@ -23,10 +23,10 @@
     <section class="container ">
       <div class="text-end ml-8 mb-[-18px]">
         <button class="bg-[#BEAE73] text-white p-2 rounded mx-1">
-          <img src="download.png" alt="Download" class="w-4 h-4" />
+          <img src="../../public/download.png" alt="Download" class="w-4 h-4" />
         </button>
         <button class="bg-[#BEAE73] text-white p-2 rounded mx-1">
-          <img src="upload.png" alt="Share" class="w-4 h-4" />
+          <img src="../../public/upload.png" alt="Share" class="w-4 h-4" />
         </button>
       </div>
       <div class="bg-[#c4c4c429] rounded-xl sm:px-4 px-10 py-16">
@@ -46,14 +46,14 @@
         class="text-white sm:rotate-[-90deg] bg-[#BEAE73] sm:px-20 px-4 sm:py-1 py-4 sm:rounded-t-xl sm:rounded-b-[0] rounded-lg relative sm:right-[-98px] flex items-center sm:mx-0 mx-2"
       >
         <p class="sm:inline hidden">السابق</p>
-        <img src="/vector.png" class="w-5  sm:rotate-[0] rotate-[-90deg]" />
+        <img src="../../public/vector.png" class="w-5  sm:rotate-[0] rotate-[-90deg]" />
       </button>
       <button
         @click="nextPage"
         class="text-white sm:rotate-[-90deg] bg-[#BEAE73] sm:px-20 px-4 sm:py-1 py-4 sm:rounded-b-xl sm:rounded-t-[0] rounded-lg relative sm:left-[-98px] flex items-center sm:mx-0 mx-2"
       >
         <p class="sm:inline hidden">التالي</p>
-        <img src="/vector.png" class="w-5 sm:rotate-[-180deg] rotate-[90deg] sm:mr-2" />
+        <img src="../../public/vector.png" class="w-5 sm:rotate-[-180deg] rotate-[90deg] sm:mr-2" />
       </button>
     </div>
 </div>
